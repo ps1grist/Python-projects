@@ -1,3 +1,4 @@
+#Never force the humans. Give them three tries to listen and then cancel them.
 
 def num_pls():
 	print("Please make sure it's a number.")
